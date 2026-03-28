@@ -1,0 +1,4 @@
+	Virtual Assistant – Personal Web-Based Voice Assistant
+Tech Stack: HTML, CSS, JavaScript, Web Speech API, Open Weather API
+Description: Developed a voice-activated assistant ("Jarvis") using JavaScript and the Web Speech API for real-time voice recognition and text-to-speech responses Designed a dynamic, responsive UI inspired by AI systems with animated visual feedback. Integrated Open Weather API for live weather updates and added commands for time, greetings, and web search. Built a modular architecture to easily extend functionality with new voice commands and features.
+My Role : Led the full development of the Virtual Assistant web app from concept to deployment, Designed and coded the user interface using HTML and CSS for a clean, futuristic look. Implemented voice recognition and speech synthesis using the Web Speech API in JavaScript. Integrated external APIs (e.g., Open Weather) and structured command handling for scalability.
